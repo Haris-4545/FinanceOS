@@ -2,7 +2,7 @@
 
 A responsive personal finance dashboard built with React and Vite. It provides real-time tracking for income, expenses, and savings goals.
 
-![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Add+a+screenshot+of+your+app+here)
+![Dashboard Preview](assets/preview.png)
 
 ## 🚀 Features
 
