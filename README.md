@@ -1,6 +1,7 @@
 # FinanceOS
 
 A responsive personal finance dashboard built with React and Vite. It provides real-time tracking for income, expenses, and savings goals.
+The main goal of this project is for me to learn JS, React, and git.
 
 ![Dashboard Preview](assets/preview.png)
 
